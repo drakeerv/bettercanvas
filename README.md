@@ -281,12 +281,20 @@ Learn more about tree commands for Windows [here](https://learn.microsoft.com/en
 
 ## License
 
-This software is licensed under the GNU Affero General Public License v3.0 (AGPL), with the following additional restrictions:
+This software is licensed under the GNU Affero General Public License v3.0 (AGPL).
 
+Unlike the dorks at BetterCampus or whatever, I actually read the license. According to the AGPL, the shitty extra restrictions they added are legally null and void according TO THE AGPL LICENSE as Section 7 states:
+```
+All other non-permissive additional terms are considered 'further restrictions' within the meaning of section 10. If the Program as you received it, or any part of it, contains a notice stating that it is governed by this License along with a term that is a further restriction, you may remove that term.
+```
+So all of this is void:
+```
 Commercial use is prohibited. You may not use this software, or any modified version of it, in any product or service that is sold, monetized, or used in connection with a commercial or for-profit activity.
-
 No public redistribution. You may not publicly re-upload, fork, or distribute the software (or modified versions) on any platform, repository, or hosting service (e.g., GitHub, npm, Chrome Web Store) without express written permission.
-
 Competing services prohibited. You may not use this software, modified or unmodified, to create or offer a public or private alternative to BetterCanvas — even if the service is offered for free.
+```
+I AM HEREBY OFFERING THIS CODE AS A ALTERNATIVE TO BetterCanvas AND BetterCampus. Screw it, pay me a dollar to use it, it's also commercial go screw yourself. Oh yeah and I'm publicly redistributing it as well, who's going to stop me?
+
+anyway...
 
 ![Better Canvas](/icon/icon-48.png)
